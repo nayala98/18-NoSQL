@@ -1,0 +1,21 @@
+{
+  "name": "18-NoSQL",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nayala98/18-NoSQL.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nayala98/18-NoSQL/issues"
+  },
+  "homepage": "https://github.com/nayala98/18-NoSQL#readme"
+}
